@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## A web development project
 
-You can use the [editor on GitHub](https://github.com/VaishnaviGanamukkala/web_development_coursera/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This repository is created to learn HTML, CSS and Javascript for Web Development, following the course [HTML, CSS, and Javascript for Web Developers](https://www.coursera.org/learn/html-css-javascript-for-web-developers)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Whenever this repository is commited, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in the site, from the content in this Markdown file.
 
 ### Markdown
 
